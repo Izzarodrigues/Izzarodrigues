@@ -64,7 +64,7 @@ Estudante de **Engenharia de Software** e profissional de **Marketing**, unindo 
 
 ## Tecnologias
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode,figma" />
 </p>
 
