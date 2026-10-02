@@ -60,6 +60,8 @@ Meu objetivo é unir **Engenharia de Software, tecnologia, design e criatividade
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/izzamaryr)
 
+[![Behance](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)]([https://www.instagram.com/izzamaryr)
+
 ---
 
 <div align="center">
