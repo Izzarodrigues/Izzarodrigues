@@ -72,10 +72,20 @@ Estudante de **Engenharia de Software** e profissional de **Marketing**, unindo 
 
 ## Conecte-se comigo
 
-<p>
-<a href="https://www.instagram.com/izzamaryr"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/izadora-maria-rodrigues"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.behance.net/izzamary"><img src="https://img.shields.io/badge/Behance-000?style=for-the-badge&logo=behance&logoColor=white"></a>
+<p align="center">
+  
+  <a href="https://www.instagram.com/izzamaryr">
+    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/izadora-maria-rodrigues">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="https://www.behance.net/izzamary">
+    <img src="https://img.shields.io/badge/Behance-000?style=for-the-badge&logo=behance&logoColor=white">
+  </a>
+  
 </p>
 
 ---
