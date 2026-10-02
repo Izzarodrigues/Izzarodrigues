@@ -73,23 +73,12 @@ Meu objetivo é unir **Engenharia de Software, tecnologia, design e criatividade
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO\&show_icons=true\&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO\&layout=compact\&theme=transparent)
-
-</div>
-
----
 
 ## 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)]((https://www.linkedin.com/in/izadora-maria-rodrigues))
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](SEU_INSTAGRAM)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)]((https://www.instagram.com/izzamaryr))
 
 ---
 
