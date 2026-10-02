@@ -64,6 +64,8 @@ Meu objetivo é unir **Engenharia de Software, tecnologia, design e criatividade
 
 <div align="center">
 
-### ✨ Transformando ideias em soluções digitais.
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+        
 
 </div>
