@@ -3,19 +3,19 @@
 Estudante de **Engenharia de Software** e profissional de **Marketing**, unindo tecnologia, design e criatividade para desenvolver soluções digitais.
 
 <p>
-  ৻ ✦ Desenvolvendo projetos em <strong>Software Engineering</strong>
+  ৻ Desenvolvendo projetos em <strong>Software Engineering</strong>
 </p>
 
 <p>
-  ৻ ✦ Criando interfaces, identidades visuais e experiências digitais
+  ৻ Criando interfaces, identidades visuais e experiências digitais
 </p>
 
 <p>
-  ৻ ✦ Explorando <strong>IA, automação e ferramentas de desenvolvimento</strong>
+  ৻ Explorando <strong>IA, automação e ferramentas de desenvolvimento</strong>
 </p>
 
 <p>
-  ৻ ✦ Construindo projetos web e plataformas digitais
+  ৻ Construindo projetos web e plataformas digitais
 </p>
 
 Atividade no GitHub
