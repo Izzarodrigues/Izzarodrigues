@@ -76,9 +76,9 @@ Meu objetivo é unir **Engenharia de Software, tecnologia, design e criatividade
 
 ## 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)]((https://www.linkedin.com/in/izadora-maria-rodrigues))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/izadora-maria-rodrigues)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)]((https://www.instagram.com/izzamaryr))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/izzamaryr)
 
 ---
 
