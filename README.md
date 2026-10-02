@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Izza!
+# Olá, eu sou Izza!
 
 ### 💻 Analista de Marketing • 🎨 Designer • 👩‍💻 Estudante de Engenharia de Software
 
@@ -8,7 +8,7 @@ Atualmente, estudo **Engenharia de Software** e trabalho com **Marketing, Design
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 *  Estudante de Engenharia de Software
 *  Desenvolvimento de soluções e plataformas digitais
@@ -19,7 +19,7 @@ Atualmente, estudo **Engenharia de Software** e trabalho com **Marketing, Design
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 ### Desenvolvimento
 
@@ -35,7 +35,7 @@ Atualmente, estudo **Engenharia de Software** e trabalho com **Marketing, Design
 
 ---
 
-## 📚 Atualmente estudando
+## Atualmente estudando
 
 * Engenharia de Software
 * Desenvolvimento Web
@@ -47,14 +47,14 @@ Atualmente, estudo **Engenharia de Software** e trabalho com **Marketing, Design
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Meu objetivo é unir **Engenharia de Software, tecnologia, design e criatividade** para desenvolver soluções digitais inteligentes, funcionais e visualmente bem construídas.
 
 ---
 
 
-## 📫 Vamos nos conectar?
+## Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/izadora-maria-rodrigues)
 
