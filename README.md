@@ -1,4 +1,4 @@
-# Olá, eu sou a Izza!
+# Olá, eu sou a Izadora Rodrigues!
 
 ### Software Engineering Student · Designer · Technology & AI
 
@@ -8,11 +8,21 @@ Estudante de **Engenharia de Software** e profissional de **Marketing**, unindo 
 
 ## Atualmente
 
-✦ Desenvolvendo projetos em **Software Engineering**
-✦ Criando interfaces, identidades visuais e experiências digitais
-✦ Explorando **IA, automação e ferramentas de desenvolvimento**
-✦ Construindo projetos web e plataformas digitais
+<p>
+  ৻ ✦ Desenvolvendo projetos em <strong>Software Engineering</strong>
+</p>
 
+<p>
+  ৻ ✦ Criando interfaces, identidades visuais e experiências digitais
+</p>
+
+<p>
+  ৻ ✦ Explorando <strong>IA, automação e ferramentas de desenvolvimento</strong>
+</p>
+
+<p>
+  ৻ ✦ Construindo projetos web e plataformas digitais
+</p>
 ---
 
 ## Atividade no GitHub
@@ -24,14 +34,30 @@ Estudante de **Engenharia de Software** e profissional de **Marketing**, unindo 
 
 
 ---
+<h2 align="center">Projetos atuais</h2>
 
-## Projetos atuais
-
-| Projeto                   | Descrição                                         | Tecnologias             |
-| ------------------------- | ------------------------------------------------- | ----------------------- |
-| **PetVille**              | Site para pet shop e spa                          | HTML · CSS · JavaScript |
-| **Flipbooks Aquastar**    | Galeria digital de catálogos e materiais técnicos | HTML · CSS              |
-| **Calculadora Galáctica** | Projeto web interativo                            | HTML · CSS              |
+<table align="center">
+  <tr>
+    <th>Projeto</th>
+    <th>Descrição</th>
+    <th>Tecnologias</th>
+  </tr>
+  <tr>
+    <td align="center"><strong>PetVille</strong></td>
+    <td align="center">Site para pet shop e spa</td>
+    <td align="center">HTML · CSS · JavaScript</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Flipbooks Aquastar</strong></td>
+    <td align="center">Galeria digital de catálogos e materiais técnicos</td>
+    <td align="center">HTML · CSS</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Calculadora Galáctica</strong></td>
+    <td align="center">Projeto web interativo</td>
+    <td align="center">HTML · CSS</td>
+  </tr>
+</table>
 
 
 ---
@@ -39,7 +65,7 @@ Estudante de **Engenharia de Software** e profissional de **Marketing**, unindo 
 ## Tecnologias
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,php,git,github,vscode,figma,wordpress" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode,figma" />
 </p>
 
 ---
