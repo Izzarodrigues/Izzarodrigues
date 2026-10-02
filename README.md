@@ -71,7 +71,7 @@ Atividade no GitHub
 </p>
 
 <p align="center">
-  <i>Entre em contato.</i>
+  <i>Entre em contato</i>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2560A6,100:000000&height=100&section=footer"/>
