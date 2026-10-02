@@ -1,12 +1,6 @@
 # Olá, eu sou a Izadora Rodrigues!
 
-### Software Engineering Student · Designer · Technology & AI
-
 Estudante de **Engenharia de Software** e profissional de **Marketing**, unindo tecnologia, design e criatividade para desenvolver soluções digitais.
-
----
-
-## Atualmente
 
 <p>
   ৻ ✦ Desenvolvendo projetos em <strong>Software Engineering</strong>
@@ -23,17 +17,14 @@ Estudante de **Engenharia de Software** e profissional de **Marketing**, unindo 
 <p>
   ৻ ✦ Construindo projetos web e plataformas digitais
 </p>
----
 
-## Atividade no GitHub
+Atividade no GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Izzarodrigues&show_icons=true&hide_border=true&theme=transparent&title_color=2560A6&icon_color=2560A6" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Izzarodrigues&hide_border=true&theme=transparent" height="165"/>
 </p>
 
-
----
 <h2 align="center">Projetos atuais</h2>
 
 <table align="center">
@@ -59,21 +50,13 @@ Estudante de **Engenharia de Software** e profissional de **Marketing**, unindo 
   </tr>
 </table>
 
-
----
-
-## Tecnologias
+<h2 align="center">Tecnologias</h2>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode,figma" />
 </p>
 
----
-
-## Conecte-se comigo
-
 <p align="center">
-  
   <a href="https://www.instagram.com/izzamaryr">
     <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
@@ -85,10 +68,7 @@ Estudante de **Engenharia de Software** e profissional de **Marketing**, unindo 
   <a href="https://www.behance.net/izzamary">
     <img src="https://img.shields.io/badge/Behance-000?style=for-the-badge&logo=behance&logoColor=white">
   </a>
-  
 </p>
-
----
 
 <p align="center">
   <i>Transformando ideias em experiências digitais.</i>
